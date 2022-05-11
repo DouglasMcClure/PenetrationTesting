@@ -1,0 +1,1 @@
+Since the form is on High setting it doesn't run the script and always displays the code iterated through the message.

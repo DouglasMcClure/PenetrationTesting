@@ -1,0 +1,1 @@
+Gives the approriate hashed data from the database.

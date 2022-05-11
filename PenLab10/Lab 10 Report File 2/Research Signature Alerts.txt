@@ -1,0 +1,9 @@
+Snort Alert [1:1000002:1] 
+This signiture alerts you to let you know that there is snorting happening to your system.
+
+ET SCAN Potential SSH Scan OUTBOUND 
+This signisture alerts you to let you know that you have comprmised firewalls.
+
+GPL SNMP public access udp 1.14% 7
+Snort has detected traffic that may indicate the presence of the snmp protocol or 
+vulnerabilities in the snmp protocol on the network.

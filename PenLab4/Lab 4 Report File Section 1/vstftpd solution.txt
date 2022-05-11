@@ -1,0 +1,1 @@
+Validate and recompile a legitimate copy of the source code.

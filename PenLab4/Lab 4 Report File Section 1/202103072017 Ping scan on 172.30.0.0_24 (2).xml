@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun start="1615177042" profile_name="Ping scan" xmloutputversion="1.04" scanner="nmap" version="7.40" startstr="Sun Mar 07 20:17:22 2021" args="nmap -sn 172.30.0.0/24"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">
+Starting Nmap 7.40 ( https://nmap.org ) at 2021-03-07 20:17 Pacific Standard Time
+Nmap scan report for 172.30.0.2
+mass_dns: warning: Unable to determine any DNS servers. Reverse DNS is disabled. Try using --system-dns or specify valid servers with --dns-servers
+Host is up (0.00s latency).
+MAC Address: 00:50:56:AB:71:37 (VMware)
+Nmap scan report for 172.30.0.7
+Host is up (0.00s latency).
+MAC Address: 00:50:56:AB:E5:BC (VMware)
+Nmap scan report for 172.30.0.55
+Host is up (0.00s latency).
+MAC Address: 00:50:56:AB:7D:7A (VMware)
+Nmap scan report for 172.30.0.10
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 7.81 seconds
+</output><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="172.30.0.2"></address><address addrtype="mac" vendor="VMware" addr="00:50:56:AB:71:37"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="172.30.0.7"></address><address addrtype="mac" vendor="VMware" addr="00:50:56:AB:E5:BC"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="172.30.0.55"></address><address addrtype="mac" vendor="VMware" addr="00:50:56:AB:7D:7A"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="172.30.0.10"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence></host><runstats><finished timestr="Sun Mar 07 20:17:30 2021" time="1615177050"></finished><hosts down="252" total="256" up="4"></hosts></runstats></nmaprun>

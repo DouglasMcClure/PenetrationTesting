@@ -1,0 +1,1 @@
+Comparing the two Nmap scans I disabled the inbound rules except for the Remote Desktop(TCP-In)rule which limits the traffic to the specified port and allows the traffic only when the specified program is running. Also Enables the Firewall state for all profiles Domain, Private and Public.  The only port left open was port 3389.

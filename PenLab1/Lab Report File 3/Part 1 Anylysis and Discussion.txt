@@ -1,0 +1,1 @@
+BO is a Trojan that allows the BOclient to control the remote system as if they are logged on locally. Key logging, screen printing, and man-in-the-middle attacks all can be done with this Trojan. Back Orifice was named after Microsoft's BackOffice. This is still dangerous because it could come in common software downloads and looks similar to the files created.

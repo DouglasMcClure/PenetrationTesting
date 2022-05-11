@@ -1,0 +1,2 @@
+Win32:Malware-gen
+C:\Helix\IR\bin\cryptcat.exe

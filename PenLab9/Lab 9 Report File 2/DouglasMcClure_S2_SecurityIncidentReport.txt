@@ -1,0 +1,27 @@
+Incident Report#: IR-00001
+
+Reported Date and Time: April 26, 2021
+
+Technician: Douglas McClure
+
+Site Location: Register Keycopy when diagnosed on target-windows2
+
+Virus scan detected KeyLogger-B, Achtung-B, and Keycopy[Trj]
+
+Triage(Impact): Nothing was affected.
+
+Containment (Steps taken):
+
+1. Used AVG software to diagnose system.
+
+2. Ran a deep scan which recognized the malware and placed it in quarentine to remove the virus
+
+Investigation (Cause): exectuable downloaded.
+
+Recovery and Repair (Resolution):
+
+Used AVG antivirus software to quarantine and eradicate the malware.
+
+Lessons Learned (Debriefing and Feedback):
+
+Don't install random executable files.

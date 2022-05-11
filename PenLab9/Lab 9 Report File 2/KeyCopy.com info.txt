@@ -1,0 +1,5 @@
+KeyCopy.com
+
+Risk Level: High
+
+Highly dangerous threat which is by several remote hackers.  Remove temp files from safe mode in boot. Next End all processes related to Keycopy.  Then Search through folders and files for any reminence.  Finally write regedit.exe file to locate registry entries of the threat then delete it completely.

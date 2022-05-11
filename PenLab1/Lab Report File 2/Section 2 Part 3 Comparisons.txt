@@ -1,0 +1,1 @@
+Comparing the two different Nmap Scans I enable firewall rules and added new rules which closed all ports except port 3389.

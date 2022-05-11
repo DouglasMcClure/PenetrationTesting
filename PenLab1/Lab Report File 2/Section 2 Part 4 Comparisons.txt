@@ -1,0 +1,1 @@
+Comparing the Nmap scans set all firewall profiles to on using trhe advfirewall in Windows 2008.

@@ -1,0 +1,10 @@
+Douglas McClure
+
+3/21/2020
+
+PenTesting
+
+Video Summary
+
+
+Start a Airmon-ng command to start an interface to monitor all wireless traffic.  verify the mon0 interface has been created.  In a new terminal use the command aireplay-ng to inject frames to generate traffic that aircrack-ng will use to crack the wepnw psea keys.  This will force clients off of a service through a DDoS attack and use the authentication to gain access as well as see the network.  airodump-ng is used to tell airodump-ng to monitor channel 11 and use the mac address of the target system of the access point of the network.  Then it dumps all traffic into a new file called capture.  In the aireplay-ng window there are five deauthentication packets being sent to targeted access point.  Then  adjusted the aireplay-ng command to send more packets to the silent valor wireless network.  Uses aircrack-ng to use the wordlist against the capture files to search for the possible passphrases for the network which he used Silent valor to crack.  The passphrase that was given was darkobsidian.  Then he tested the passphrase with the Wicd network manager.  

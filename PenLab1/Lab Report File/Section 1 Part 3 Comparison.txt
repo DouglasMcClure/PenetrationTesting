@@ -1,0 +1,1 @@
+Comparing the two Nmap scans I used windows firewall configuration to close all the ports that were vulnerable and turned on the firewall.  The only port that was left open was port 3389.
